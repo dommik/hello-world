@@ -3,7 +3,4 @@
 
 print("HELLO WORLD.")
 
-dasdadaddd
-
-
-aaaa
+# TEST
